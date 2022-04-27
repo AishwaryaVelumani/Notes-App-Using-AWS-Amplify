@@ -70,6 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# amplifyapp2" 
 
-hello aws!!
-
-hello1
+To run the project locally:
+1. Go to C:\Windows\System32\amplifyapp2 using cmd in administrator mode.
+2. npm start
